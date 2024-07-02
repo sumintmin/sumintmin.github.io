@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "우와정말신기해"
+date:   2024-07-02 11:22:12 +0900
+categories: jekyll update
+---
+테스트
+test
+궳뒗도 출력이 되나
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
