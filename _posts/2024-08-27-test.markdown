@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "test"
-date:   sysdate
+date:   2024-07-27 15:37:39 +0900
 categories: jekyll update
 ---
 
+<<<<<<< HEAD
 test   
 
 포스트 시작에는 YAML Front Matter을 넣어줘야한다.   
@@ -34,3 +35,6 @@ timezone:Asia/Seoul
 
 위의 방법을 사용해도 현재시간이 반영이 안된다면
 date:2022-12-15 12:25:20 +0900을 붙여준다.
+=======
+test
+>>>>>>> a6930d1d8378a097b8f7303acb43f636c5d0fbd3
