@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "test"
-date:   @today
+date:   2024-08-27
 categories: jekyll update
 ---
 
