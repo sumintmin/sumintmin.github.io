@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comments Section</title>
+    <style>
+        /* Add some basic styling */
+        #comments {
+            margin-top: 20px;
+        }
+        #comments p {
+            border-bottom: 1px solid #ccc;
+            padding: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Comments Section</h1>
+    <form id="commentForm">
+        <input type="text" id="name" placeholder="Your Name" required>
+        <textarea id="comment" placeholder="Your Comment" required></textarea>
+        <button type="submit">Submit</button>
+    </form>
+    <div id="comments"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
