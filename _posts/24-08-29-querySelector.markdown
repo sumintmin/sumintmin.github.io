@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "querySelector 쿼리선택자"
-date:   2024-08-29
+date:   2024-08-28
 categories: jekyll update
 ---
 
